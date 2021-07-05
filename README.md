@@ -1,3 +1,6 @@
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=PantsuDango&show_icons=true&hide_title=true&theme=omni&&hide_border=true" />  
+
 ###  我是胖次团子~👋
 这里都是我个人空闲研修的项目  
 如果能帮上你  
@@ -19,5 +22,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=PantsuDango&show_icons=true&hide_title=true&theme=omni&&hide_border=true" />  
